@@ -272,8 +272,9 @@ font-size: 1em;
 
 @media (min-width: 1040px) {
   .custom-image-section {
-    width: 80%;
+    width: 50%;
     margin-left: 5em;
+  margin-top:10%;
   }
 }
 .custom-image {
