@@ -76,7 +76,7 @@ export default function Project2() {
                   <p>
                   I created these projects during the learning of TypeScript. This is the first programmming language I learned.
                   </p>
-                  <a href="/CSS" className="link">View Projects...</a>
+                  <a href="/typescript" className="link">View Projects...</a>
                 </div>
               </div>
             </div>
@@ -97,7 +97,7 @@ export default function Project2() {
                   I am currently learning Next.Js the framework of react to enhance my web development skills with React.
                       Motivated to learn this web skill.
                   </p>
-                  <a href="/CSS" className="link">View Projects...</a>
+                  <a href="/NextJs" className="link">View Projects...</a>
                 </div>
               </div>
             </div>
