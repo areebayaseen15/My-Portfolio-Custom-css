@@ -49,7 +49,6 @@
   display: flex;
   justify-content: space-between;
   align-content: center;
-  flex-wrap: wrap;
 }
 
 .nav-link {
@@ -58,11 +57,14 @@
   text-decoration: none;
   transition: color 0.3s;
   align-items: center;
-  font-size: 1em;
+  font-size: 0.75em;
 }
 
 .nav-link:hover {
   color: #ebc034;
+}
+.navbar .social-icon {
+  -webkit-flow-into: 1rem;
 }
 @media (min-width: 640px) {
   .container {
@@ -127,7 +129,7 @@
 .navbar .social-icon {
   color: white;
   margin: 0 0.75rem;
-  font-size: 1.75rem;
+  font-size: 2rem;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -576,7 +578,7 @@
     border-radius: 0.5rem;
   }
   
-  .projectCards .overlay {
+   .overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -591,7 +593,6 @@
     transition: opacity 0.3s ease-in-out;
     color: #000;
     overflow-wrap: wrap;
-    padding: 10%;
   }
   
   .Imagecontainer:hover .overlay {
@@ -599,7 +600,7 @@
   }
   
   .Imagecontainer .overlay .details {
-    padding: 2rem;
+    padding: 1rem;
     text-align: center;
   }
   
