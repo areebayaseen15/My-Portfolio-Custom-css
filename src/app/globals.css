@@ -63,8 +63,8 @@
 .nav-link:hover {
   color: #ebc034;
 }
-.navbar .social-icon {
-  -webkit-flow-into: 1rem;
+.navbar .header .container .social-links .social-icon{
+font-size: 1em;
 }
 @media (min-width: 640px) {
   .container {
@@ -258,9 +258,10 @@
 }
 
 .custom-image-section {
-  width: 100%;
+  width: 20%;
   display: flex;
   justify-content: center;
+  margin-top:20%;
 }
 
 @media (min-width: 768px) {
@@ -271,7 +272,7 @@
 
 @media (min-width: 1040px) {
   .custom-image-section {
-    width: 50%;
+    width: 80%;
     margin-left: 5em;
   }
 }
