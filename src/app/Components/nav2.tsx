@@ -9,7 +9,7 @@ function Navbar2() {
         <div className="container">
             <div className="logo">
                 <span className="name">
-                    <Link href="#Home">MY <span id="fname">WORK.</span></Link>
+                    <Link href="/">MY <span id="fname">WORK.</span></Link>
                 </span>
             </div>
             <nav className="navigation">
