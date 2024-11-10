@@ -1,0 +1,59 @@
+.gradient-indigo-white {
+    background: linear-gradient(to right, #C7D2FE, #FFFFFF, #C7D2FE); /* bg-gradient-to-r from-indigo-200 via-white to-indigo-200 */
+}
+
+.gradient-orange {
+    background: linear-gradient(to right, #FED7AA, #FFE8D1, #FED7AA); /* bg-gradient-to-r from-orange-200 via-orange-100 to-orange-200 */
+}
+
+.gradient-yellow-white {
+    background: linear-gradient(to right, #FEF3C7, #FFFFFF, #FEF9C3); /* bg-gradient-to-r from-yellow-200 via-white to-yellow-100 */
+}
+
+.gradient-red-pink {
+    background: linear-gradient(to right, #FECACA, #FFE4E6, #FECACA); /* bg-gradient-to-r from-red-200 via-pink-100 to-red-200 */
+}
+
+.gradient-gray {
+    background: linear-gradient(to right, #9CA3AF, #F3F4F6, #D1D5DB); /* bg-gradient-to-r from-gray-400 via-gray-100 to-gray-300 */
+}
+
+.gradient-red-pink-light {
+    background: linear-gradient(to right, #F87171, #FFE4E6, #FCA5A5); /* bg-gradient-to-r from-red-400 via-pink-100 to-red-300 */
+}
+
+.gradient-red-blue {
+    background: linear-gradient(to right, #FECACA, #DBEAFE, #FECACA); /* bg-gradient-to-r from-red-200 via-blue-100 to-red-200 */
+}
+
+.gradient-green {
+    background: linear-gradient(to right, #A7F3D0, #D1FAE5, #A7F3D0); /* bg-gradient-to-r from-green-200 via-green-100 to-green-200 */
+}
+
+.gradient-indigo-white-repeat {
+    background: linear-gradient(to right, #C7D2FE, #FFFFFF, #C7D2FE); /* bg-gradient-to-r from-indigo-200 via-white to-indigo-200 */
+}
+
+.gradient-yellow-orange {
+    background: linear-gradient(to right, #FEF3C7, #FFD580, #FEF3C7); /* bg-gradient-to-r from-yellow-200 via-orange-100 to-yellow-200 */
+}
+
+.gradient-purple-white {
+    background: linear-gradient(to right, #E9D5FF, #FFFFFF, #E9D5FF); /* bg-gradient-to-r from-purple-200 via-white to-purple-200 */
+}
+
+.gradient-purple-yellow {
+    background: linear-gradient(to right, #C084FC, #FEF9C3, #C084FC); /* bg-gradient-to-r from-purple-400 via-yellow-100 to-purple-400 */
+}
+
+.gradient-orange-white {
+    background: linear-gradient(to right, #FED7AA, #FFFFFF, #FED7AA); /* bg-gradient-to-r from-orange-200 via-white to-orange-200 */
+}
+
+.gradient-yellow-white-repeat {
+    background: linear-gradient(to right, #FEF3C7, #FFFFFF, #FEF3C7); /* bg-gradient-to-r from-yellow-200 via-white to-yellow-200 */
+}
+
+.gradient-indigo {
+    background: linear-gradient(to right, #4338CA, #E0E7FF, #4338CA); /* bg-gradient-to-r from-indigo-500 via-indigo-100 to-indigo-500 */
+}
